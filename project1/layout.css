@@ -1,0 +1,81 @@
+.background
+{
+    background-color: lightgrey;
+    height: 570px;
+    width: 1270px;
+    margin:0px;
+    
+    
+}
+.pages
+{
+    background-color:lavender;
+    position:fixed;
+    margin-left: 80px;
+    height:500px;
+    width:1100px;
+    border-radius: 10px;
+    margin-top:30px;
+    
+}
+.main
+{
+  background-color: white;
+  position:relative;
+  margin-left: 20px;
+  margin-top: 20px;
+  height: 460px;
+  width:1060px;
+  border-radius: 10px;
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+.left
+{
+    font-family: 'Rampart One', cursive;
+    background-color: whitesmoke;
+    flex:0.2;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-style: dashed dashed;
+    border-color: lavender;
+    
+
+}
+
+.mid
+{
+    font-family: 'Rampart One', cursive;
+    background-color: lavender;
+    flex:0.7;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.right
+{
+    font-family: 'Rampart One', cursive;
+    background-color: lavender;
+    flex:0.1;
+    margin-top:10px;
+   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
