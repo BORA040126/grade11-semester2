@@ -51,9 +51,47 @@
     margin-bottom: 10px;
     border-style: dashed dashed;
     border-color: lavender;
+    display: flex;
+    flex-direction: column;
     
 
 }
+
+.proflie
+{
+    flex:0.4;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top:10px;
+    background-color: blue;
+
+}
+.introduction
+{
+    flex:0.5;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+   
+    background-color: blueviolet;
+
+}
+.links
+{
+    flex:0.1;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    background-color: burlywood;
+    margin-bottom:10px;
+
+}
+
+
+
+
 
 .mid
 {
@@ -65,6 +103,32 @@
     margin-right: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.titlee
+{
+  flex:0.2;
+  background-color: cadetblue;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top:10px;
+}
+.item1
+{
+    flex:0.4;
+    background-color: chartreuse;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.item2
+{
+    flex:0.4;
+    background-color: crimson;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .right
@@ -77,5 +141,55 @@
     margin-right: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    
 }
 
+.menubar
+{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+.menu1
+{
+    flex:0.25;
+    background-color: paleturquoise;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.menu2
+{
+    flex:0.25;
+    background-color: paleturquoise;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.menu3
+{
+    flex:0.25;
+    background-color: paleturquoise;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.menu4
+{
+    flex:0.25;
+    background-color: paleturquoise;
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
