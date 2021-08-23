@@ -64,7 +64,7 @@
     margin-left: 10px;
     margin-right: 10px;
     margin-top:10px;
-    background-color: blue;
+    
 
 }
 .introduction
@@ -74,7 +74,7 @@
     margin-left: 10px;
     margin-right: 10px;
    
-    background-color: blueviolet;
+    
 
 }
 .links
@@ -84,12 +84,12 @@
     margin-left: 10px;
     margin-right: 10px;
     
-    background-color: burlywood;
+    
     margin-bottom:10px;
 
 }
 
-
+a { text-decoration: none;  }
 
 
 
@@ -156,7 +156,7 @@
 .menu1
 {
     flex:0.25;
-    background-color: paleturquoise;
+    background-color: lightsteelblue;
     margin-top:10px;
     margin-left: 10px;
     margin-right: 10px;
@@ -166,7 +166,7 @@
 .menu2
 {
     flex:0.25;
-    background-color: paleturquoise;
+    background-color: lightsteelblue;
     margin-top:10px;
     margin-left: 10px;
     margin-right: 10px;
@@ -176,7 +176,7 @@
 .menu3
 {
     flex:0.25;
-    background-color: paleturquoise;
+    background-color: lightsteelblue;
     margin-top:10px;
     margin-left: 10px;
     margin-right: 10px;
@@ -186,10 +186,15 @@
 .menu4
 {
     flex:0.25;
-    background-color: paleturquoise;
+    background-color: lightsteelblue;
     margin-top:10px;
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
+    vertical-align: middle;
+}
+.menu11
+{
+    border-top:20px;
 }
