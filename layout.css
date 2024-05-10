@@ -124,14 +124,7 @@ a { text-decoration: none;  }
     background-color:paleturquoise;
     border-radius: 20px;
 }
-.item2
-{
-    flex:0.1;
-    
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
+
 
 .right
 {
